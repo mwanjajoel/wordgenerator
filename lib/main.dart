@@ -56,6 +56,7 @@ class RandomWordsState extends State<RandomWords> {
     );
   }
 
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
